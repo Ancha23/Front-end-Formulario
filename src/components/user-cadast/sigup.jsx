@@ -196,7 +196,7 @@ export const Sinup = () => {
 
               <button
                 type="submit"
-                className="flex w-full justify-center rounded-full bg-sky-blue-200 px-2 py-2 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-orange transition-colors duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-blue-200 uppercase"
+                className="flex w-full justify-center rounded-full bg-black/50 px-2 py-2 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-black transition-colors duration-200 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-blue-200 uppercase"
               >
                 Criar Conta
               </button>
